@@ -1,0 +1,2 @@
+gate-api==4.23.2
+requests
